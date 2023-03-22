@@ -137,3 +137,22 @@ input{
     font-size: 12px;
 }
 
+/* MEDIA QURIES................................ */
+
+@media(min-width:320px){
+    .container{
+        width:100%;
+    }
+}
+@media(min-width:690px){
+    .container{
+        width:50%;
+    }
+}
+@media(min-width:1020px){
+    .container{
+        width:30%;
+    }
+}
+
+
